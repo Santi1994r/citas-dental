@@ -78,7 +78,7 @@ function Header() {
   return (
     <>
       <div
-        className="bg-[url(./images/header_img/f1.jpeg)] bg-no-repeat bg-center bg-cover mx-auto flex flex-col md:flex-row lg:justify-end py-4 px-5 bg-opacity-100"
+        className="bg-[url(https://i.imgur.com/3cyX3ga.jpg)] bg-no-repeat bg-center bg-cover mx-auto flex flex-col md:flex-row lg:justify-end py-4 px-5 bg-opacity-100"
         id="fondo"
       >
         <div
