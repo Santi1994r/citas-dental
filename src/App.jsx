@@ -1,7 +1,7 @@
 
 import './App.css'
 import Footer from './components/Footer/Footer';
-import Header from './components/header/Header';
+import Header from './components/Header/Header';
 import GeneralOdoltology from './components/GeneralOdoltology/GeneralOdoltology'
 import OurServices from './components/OurServices/OurServices'
 import WhyChooseUs from './components/WhyChooseUs/WhyChooseUs';
